@@ -18,5 +18,6 @@ The following packages (libraries) need to be installed. You can install these p
 - requests
 - tweepy
 - json
+
 You need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. This task can be done in a Jupyter Notebook, but you might prefer to use a word processor like Google Docs, which is free, or Microsoft Word.
 A text editor, like Sublime, which is free, will be useful but is not required.
